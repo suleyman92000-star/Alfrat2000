@@ -1,10 +1,13 @@
-// الصق هنا إعدادات مشروعك من Firebase (Project settings > Your apps > Web app)
+// إعدادات مشروع Firebase الجديد ALFRAT2000
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBuDAIRLiss4AFF3GBMJuD6UP7Lg_9pBWY",
+  authDomain: "alfrat2000-54ed9.firebaseapp.com",
+  projectId: "alfrat2000-54ed9",
+  storageBucket: "alfrat2000-54ed9.firebasestorage.app",
+  messagingSenderId: "489668027326",
+  appId: "1:489668027326:web:4f114feb780f02eadcadd4",
+  measurementId: "G-BDC98QOV5L"
 };
 
-// حساب المدير الوحيد: كلمة سره هي رمز القفل (6 أرقام أو أكثر)
-export const ADMIN_EMAIL = "admin@parts.app";
+// إيميل المدير المعتمد لتسجيل الدخول
+export const ADMIN_EMAIL = "admin@alfrat2000.com";
